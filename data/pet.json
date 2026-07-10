@@ -1,0 +1,9 @@
+{
+  "name": "Blobby",
+  "hp": 78,
+  "hp_max": 100,
+  "mp": 45,
+  "mp_max": 100,
+  "level": 3,
+  "mood": "happy"
+}
